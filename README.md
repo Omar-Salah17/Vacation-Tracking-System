@@ -52,6 +52,17 @@ In traditional workflows, vacation requests required multiple manual steps—sub
 
  🏛 **HR System Compatibility** – The system must interface with the existing HR legacy systems to fetch and update employee data.
 
+ ## 👥 Actors
+
+ - **Employee** – Manages personal leave requests.
+
+ - **Manager** – Approves requests, grants time off, and monitors their team’s activity.
+
+ - **HR Clerk** – Maintains employee data and corrects records through a special interface.
+
+ - **System Administrator** – Oversees technical operations and ensures system reliability.
+
+
 
 
   
