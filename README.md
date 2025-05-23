@@ -14,10 +14,6 @@ In traditional workflows, vacation requests required multiple manual steps—sub
 
 📬 **Email Notifications** – Keeps all parties informed with automatic email updates.
 
-🧩 **Seamless Authentication Integration**  – Implemented as an extension of the existing intranet portal and leverages the portal’s single-sign-on (SSO) mechanisms for user authentication.
-
-📝 **Audit Logs** – Tracks every change for transparency and compliance.
-
 🔓 **Admin Overrides** – Admins/HR can override validation rules; all actions are logged.
 
 🎖  **Manager Controls** – Managers can grant personal time off within policy limits.
@@ -25,6 +21,26 @@ In traditional workflows, vacation requests required multiple manual steps—sub
 🧪 **Vacation Summary API** – Provides a web service interface for internal systems to retrieve any employee’s vacation request summary for integration and reporting.
 
 🏛  **HR System Connectivity** – Interfaces with legacy HR systems to fetch and synchronize employee data, ensuring consistency and accuracy across platforms.
+
+## 🖥 Non-Functional Requirements
+
+🧩 **Seamless Authentication Integration**  – Implemented as an extension of the existing intranet portal and leverages the portal’s single-sign-on (SSO) mechanisms for user authentication.
+
+📝 **Audit Logs** – Tracks every change for transparency and compliance.
+
+💡 **Usability** – Designed with a simple and intuitive interface suitable for all employees, regardless of technical skill.
+
+🔁 **Availability & Reliability** – Ensures 99.9% uptime during business hours with robust failover mechanisms.
+
+🔒 **Security** – Access is role-based and enforced using secure communication standards (e.g., HTTPS, encrypted sessions).
+
+📈 **Scalability** – Capable of supporting increasing numbers of employees and data growth without affecting performance.
+
+⚡ **Performance** – Response time for standard actions (e.g., viewing or submitting requests) should not exceed 2 seconds under normal load.
+
+🧠 **Maintainability** – Developed using modular architecture to support easy updates, debugging, and system extensions.
+
+
   
 
 
