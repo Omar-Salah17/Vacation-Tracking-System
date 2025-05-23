@@ -40,6 +40,19 @@ In traditional workflows, vacation requests required multiple manual steps—sub
 
 🧠 **Maintainability** – Developed using modular architecture to support easy updates, debugging, and system extensions.
 
+## 🚧 System Constraints
+
+🧩 **Portal Integration** – The system must be developed as an extension of the existing intranet portal. 
+
+🖥 **Infrastructure Reuse** – The solution must use the current hardware and middleware infrastructure
+
+🔐 **Authentication Consistency** – Authentication must use the portal’s existing Single Sign-On (SSO) mechanism.
+
+🧾 **Logging Mandate** – All transactions and overrides must be logged for audit and compliance purposes.
+
+ 🏛 **HR System Compatibility** – The system must interface with the existing HR legacy systems to fetch and update employee data.
+
+
 
   
 
